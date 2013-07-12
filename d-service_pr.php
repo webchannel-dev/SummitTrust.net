@@ -8,9 +8,9 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
-        <title>SUMMIT TRUST- Visa Sponsorship</title>
-        <meta name="description" content="U.A.E Visa Sponsorship" />
-        <meta name="keywords" content="Visa Sponsorship" />
+        <title>SUMMIT TRUST </title>
+        <meta name="description" content="" />
+        <meta name="keywords" content="" />
         <meta name="robots" content="index,follow" />
         <link rel="shortcut icon" href="images/favicon.ico" />
         <link rel="stylesheet" href="css/style.css" type="text/css" />
@@ -36,6 +36,7 @@
         <!--Google analytics tracker -->
         <script type="text/javascript" src="js/analyticstracking.js"></script>
         <meta name="google-translate-customization" content="91df6474cb52ef00-7f1adc6215151854-gcf648c5b5042e7cc-10"></meta>
+
         <!-- Header -->
     <header class="header_bg clearfix">
         <div class="container clearfix">
@@ -62,26 +63,40 @@
         <!-- Page Title -->
         <header class="container page_info clearfix">
 
-            <h1 class="regular brown bottom_line">Summit Trust Document Cleaning </h1>
+            <h1 class="regular brown bottom_line" style="direction: rtl;">خدمات</h1>
 
             <div class="clear"></div>
         </header>
 
         <!-- /Page Title -->
 
+        <img src="images/contents/summit.jpg" width="940"/>
+        <br/>    <br/>    <br/>
+        <div class="container" style="direction: rtl; font-size: 16px;">
 
-        <br/>    <br/>    <br/>  
-        <div class="container">
-          <p>Summit Trust  has been established by professionals with a clear vision to provide world class management advisory services to several faces of the enterprise in the Private, Government and Non-Government Sectors. The group, having its substantial presence in UAE.<br>
-            <br>
-          Summit Trust is head quartered in Dubai . We, at Summit Trust, have an excellent understanding of the local economy, laws and procedures, which enables us to provide full assistance throughout every step of the business formation process, however, our services do not stop here. We also offer any assistance or advice based on UAE company guidelines and procedures from the moment you choose to form the company to as long as your after formation needs go, including <strong>assistance</strong> with resident <strong>visa processing</strong>, <strong>employees visas</strong> and much more.</p>
-          <p>We also provide a unique capacity to empower clients with actionable information, trends, strategies and forecasts that can help develop, grow and manage changes in the near future.</p>
-          <p>Specializing in international corporate law, Summit Trust aims to be established as the market leader in this field. Due to our vast experience, we are able to offer clients assistance with all aspects of offshore company formation, nominee service through lawyers and corporate &amp; offshore bank accounts with the world&rsquo;s leading financial institutions which can include services such as online banking, credit cards and cheque books.</p>
-          <p>Our mission is to help our clients excel and our people respond successfully to an ever-changing business environment, remaining competitive and delivering premium services to the business achievers. Summit Trust draws on the unparalleled expertise of its people and aims to over deliver on results.</p>
-<br/>    <br/>    <br/>  
+
+            <p style="direction: rtl; font-size: 16px;">
+                
+            <ul style="list-style: circle; font-size: 26px">
+               <li>ثبت شرکت و خدمات مشاوره ای راجع به نحوه ثبت شرکتهای تجاری و اقامت</li>
+                <li>خدمات مربوط به شرکتهای تجاری LLC و خدماتی </li>
+                <li>خدمات وزارت کار و تسهیل </li>
+                <li>معرفی کفیل های معتبر اماراتی</li>
+                <li>مشاوره با وکالی معتبر اماراتی در خصوص پرونده های حقوقی, جنایی . چک</li>
+                <li>خدمات اداره مهاجرت</li>
+                <li>خدمات ویزای توریستی و اقامتی آمریکا و انگلیس </li>
+                <li>گرفتن وقت قبلی برای سفارشات آمریکا و انگلیس </li>
+                <li>وکالت در امور دعاوی امالک در دبی و عجمان</li>
+                <li> تنظیم حقوقی شراکت نامه ها و قراردادهای تجاری</li>
+                
+            </ul>
+            
+            </p>
+
         </div>
-        
-                <center><img src="images/logo.png" width="250"/></center>
+
+       
+
 
         <div class="clear padding20"></div>
 

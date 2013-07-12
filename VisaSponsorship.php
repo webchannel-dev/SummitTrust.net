@@ -8,7 +8,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
-        <title>SUMMIT TRUST - Visa Sponsorship</title>
+        <title>SUMMIT TRUSTt - Visa Sponsorship</title>
         <meta name="description" content="U.A.E Visa Sponsorship" />
         <meta name="keywords" content="Visa Sponsorship" />
         <meta name="robots" content="index,follow" />

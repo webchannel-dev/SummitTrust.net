@@ -8,7 +8,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
-        <title>SUMMIT TRUST - Business Setup in the UAE Free Zones</title>
+        <title>SUMMIT TRUSTt - Business Setup in the UAE Free Zones</title>
         <meta name="description" content=Business Setup in the UAE Free Zones" />
         <meta name="keywords" content="Business Setup in the UAE Free Zones" />
         <meta name="robots" content="index,follow" />

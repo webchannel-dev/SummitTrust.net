@@ -8,7 +8,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
-        <title>SUMMIT TRUST - U.A.E Knowledge Page</title>
+        <title>SUMMIT TRUSTt - U.A.E Knowledge Page</title>
         <meta name="description" content="" />
         <meta name="keywords" content="" />
         <meta name="robots" content="index,follow" />

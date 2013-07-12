@@ -37,14 +37,7 @@
             </ul>
         </li>
         <li><a href="contact.php">Contact</a></li>
-        <li><a href="">پارسی</a>
-              <ul>
-                        <li><a href="service_pr.php">خدمات</a></li>
-                        <li><a href="setup_pr.php">ثبت شرکت</a></li>
-                        <li><a href="company_pr.php">شرکتهای</a></li>
-                    </ul>
-        </li>
-    </ul>
+           </ul>
 </nav>
 
 <br/><br/><br/><br/><br/><br/>
